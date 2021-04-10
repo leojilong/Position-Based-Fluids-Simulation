@@ -2,6 +2,8 @@ Position Based Fluid
 CSC417 Project
 Hanlin Zhou, Long Ji
 
+Video Youtube Link: https://youtu.be/yp1B_HC5wLo
+
 Demos require 64-bit Python3 and taichi library version 0.7.0.
 
 Demos run on GPU (CUDA) by default. 
