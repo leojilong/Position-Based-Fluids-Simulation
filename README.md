@@ -1,6 +1,6 @@
-# Position Based Fluid \
-CSC417 Project \
-Hanlin Zhou, Long Ji \
+# Position Based Fluid 
+CSC417 Project 
+Hanlin Zhou, Long Ji 
 
 Video Youtube Link: https://youtu.be/yp1B_HC5wLo
 
@@ -14,7 +14,7 @@ Can switch to CPU by changing "ti.init(arch=ti.gpu)" to "ti.init(arch=ti.cpu)".
 -Press 'A' and 'D' to control fluid movement.
 \
 ![](2d-demo.gif)
-\
+
 # 3D demo: (no realtime 3D visualization available)
 -run PBF3D.py
 -Press 'A','D','W','S' to control fluid movement.
@@ -23,4 +23,4 @@ Can switch to CPU by changing "ti.init(arch=ti.gpu)" to "ti.init(arch=ti.cpu)".
 -comment out line 362-366 if you do not want the PLY outputs.
 \
 ![](3d-demo.gif)
-\
+
