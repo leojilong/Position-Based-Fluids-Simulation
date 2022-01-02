@@ -12,7 +12,9 @@ Can switch to CPU by changing "ti.init(arch=ti.gpu)" to "ti.init(arch=ti.cpu)".
 to view 2D demo:
 -run Position_Based_Fluid.py
 -Press 'A' and 'D' to control fluid movement.
-
+\\
+![](2d-demo.gif)
+\\
 to run 3D demo: (no realtime 3D visualization available)
 -run PBF3D.py
 -Press 'A','D','W','S' to control fluid movement.
