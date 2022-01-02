@@ -7,7 +7,7 @@ Demos require 64-bit Python3 and taichi library version 0.7.0.
 Demos run on GPU (CUDA) by default. 
 Can switch to CPU by changing "ti.init(arch=ti.gpu)" to "ti.init(arch=ti.cpu)".
 \
-[![Watch the video](https://img.youtube.com/vi/yp1B_HC5wLo/maxresdefault.jpg)](https://youtu.be/yp1B_HC5wLo)
+![](https://youtu.be/yp1B_HC5wLo)
 # 2D Simulation:
 -run Position_Based_Fluid.py \
 -Press 'A' and 'D' to control fluid movement.
