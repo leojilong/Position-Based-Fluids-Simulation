@@ -2,8 +2,8 @@
 CSC417 Project \
 Hanlin Zhou, Long Ji 
 
-Demos require 64-bit Python3 and taichi library version 0.7.0.
-Demos run on GPU (CUDA) by default. 
+Demos require 64-bit Python3 and taichi library version 0.7.0.\
+Demos run on GPU (CUDA) by default. \
 Can switch to CPU by changing "ti.init(arch=ti.gpu)" to "ti.init(arch=ti.cpu)".
 # Video Explnation
 https://youtu.be/yp1B_HC5wLo
