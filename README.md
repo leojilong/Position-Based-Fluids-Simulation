@@ -23,4 +23,4 @@ https://youtu.be/yp1B_HC5wLo
 ![](3d-demo.gif)
 
 # References
-mmacklin.com/pbf_sig_preprint.pdf
+[paper](mmacklin.com/pbf_sig_preprint.pdf)
