@@ -2,6 +2,7 @@
 CSC417 Project \
 Hanlin Zhou, Long Ji 
 
+This project follows algorithms and methods from [Position Based Fluids](mmacklin.com/pbf_sig_preprint.pdf) \
 Demos require 64-bit Python3 and taichi library version 0.7.0.\
 Demos run on GPU (CUDA) by default. \
 Can switch to CPU by changing "ti.init(arch=ti.gpu)" to "ti.init(arch=ti.cpu)".
@@ -23,4 +24,4 @@ https://youtu.be/yp1B_HC5wLo
 ![](3d-demo.gif)
 
 # References
-[paper](mmacklin.com/pbf_sig_preprint.pdf)
+[Position Based Fluids](mmacklin.com/pbf_sig_preprint.pdf)
